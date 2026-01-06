@@ -7,7 +7,7 @@ A Machine Learning web application that predicts the likelihood of a disease bas
 The model is built using the Naive Bayes algorithm and deployed using Streamlit.
 
 🔗 Live Demo:
-👉 https://naivebayes123.streamlit.app/
+👉 https://naivebayesalgorithm-11.streamlit.app/
 
 📌 About the Project
 
