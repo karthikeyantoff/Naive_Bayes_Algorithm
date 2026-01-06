@@ -36,7 +36,7 @@ Deployment: Streamlit Cloud
 Follow these steps to run the project on your local machine:
 
 1️⃣ Clone the Repository
-git clone https://github.com/Nandhakishore-A/Naive_Bayes.git
+git clone https://github.com/karthikeyantoff/Naive_Bayes_Algorithm.git
 cd Naive_Bayes
 
 2️⃣ Install Dependencies
